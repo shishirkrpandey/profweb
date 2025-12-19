@@ -13,10 +13,8 @@
   const getPreferredTheme = () => {
     const stored = getStoredTheme();
     if (stored === "light" || stored === "dark") return stored;
-    return window.matchMedia &&
-      window.matchMedia("(prefers-color-scheme: dark)").matches
-      ? "dark"
-      : "light";
+    // Default to light mode when there is no stored preference
+    return "light";
   };
 
   const applyTheme = (theme) => {
@@ -342,5 +340,3 @@
     loadData();
   });
 })();
-
-
