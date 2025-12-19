@@ -1,0 +1,32 @@
+[
+  {
+    "course": "PHYS 501 – Advanced Condensed Matter",
+    "term": "Spring 2026",
+    "description": "Electronic structure, magnetism, and topological materials with first-principles methods.",
+    "resources": [
+      {
+        "label": "Syllabus",
+        "file": "files/teaching/phys501/syllabus.pdf"
+      },
+      {
+        "label": "Lecture 1 Slides",
+        "file": "files/teaching/phys501/lecture-01.pdf"
+      },
+      {
+        "label": "Lecture 2 Slides",
+        "file": "files/teaching/phys501/lecture-01.pdf"
+      }
+    ]
+  },
+  {
+    "course": "PHYS 320 – Computational Physics",
+    "term": "Fall 2025",
+    "description": "Numerical methods, simulations, and visualization for physical systems.",
+    "resources": [
+      {
+        "label": "Syllabus",
+        "file": "files/teaching/phys320/syllabus.pdf"
+      }
+    ]
+  }
+]

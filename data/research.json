@@ -1,0 +1,17 @@
+{
+  "lead": "Computational condensed matter physics: structural, electronic, and magnetic properties of materials using first-principles and advanced simulation methods.",
+  "topics": [
+    {
+      "title": "First-principles & Linear Response",
+      "summary": "Accurate electronic structure calculations, linear response approaches, and model Hamiltonians to predict materials behavior."
+    },
+    {
+      "title": "Correlated Systems",
+      "summary": "Weakly and strongly correlated materials, including transition metal compounds and semiconductors, probed via simulations."
+    },
+    {
+      "title": "Topological & Magnetic Phases",
+      "summary": "Topological insulators and emergent magnetic properties explored with Monte Carlo methods and renormalization group tools."
+    }
+  ]
+}

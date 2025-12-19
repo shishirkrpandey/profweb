@@ -1,0 +1,210 @@
+{
+  "preprints": [
+    {
+      "title": "Emergence of a hidden-order phase well below the charge density wave transition in a topological Weyl semimetal",
+      "authors": "Sk Kalimuddin, Sudipta Chatterjee, Arnab Bera, Satyabrata Bera, Deep Singha Roy, Soham Das, Tuhin Debnath, Ashis Kumar Nandy, Shishir K. Pandey†, Mintu Mondal",
+      "venue": "In communication (Adv. Funct. Mater.)",
+      "year": 2025
+    },
+    {
+      "title": "The driving force for charge ordering in rare earth nickelates",
+      "authors": "Basudeb Mandal, Sagar Sarkar, Shishir Kumar Pandey, Priya Mahadevan, Cesare Franchini, A. J. Millis, D. D. Sarma",
+      "venue": "In communication (Phys. Rev. Lett.)",
+      "year": 2023,
+      "link": "https://arxiv.org/abs/1701.06819v1"
+    },
+    {
+      "title": "Synopsis of Co-based materials as possible candidates for Kitaev physics",
+      "authors": "Shishir Kumar Pandey, Ji Feng",
+      "venue": "Manuscript in preparation",
+      "year": 2023
+    },
+    {
+      "title": "Absence of insulator to metal transition at higher band fillings: A model Hamiltonian study",
+      "authors": "Shishir Kumar Pandey, Priya Mahadevan",
+      "venue": "Manuscript in preparation",
+      "year": 2023
+    },
+    {
+      "title": "Fermi surface instability and sliding charge density waves (CDWs) in the quasi one-dimensional quantum material (TaSe4)2I",
+      "authors": "Sk Kalimuddin, S. K. Pandey, Ashis K. Nandi, Mintu Mondal",
+      "venue": "Manuscript in preparation",
+      "year": 2023
+    },
+    {
+      "title": "Fate of anisotropic magnetic interactions in quasi-one dimensional spin chains in face-shared geometry: The case of K3Ir2O6",
+      "authors": "S. K. Pandey",
+      "venue": "Manuscript in preparation",
+      "year": 2023
+    }
+  ],
+  "peerReviewed": [
+    {
+      "title": "Anomalous magnetism in 3d-4f double perovskite oxide with Kramers’ ion",
+      "authors": "Saurav Kumar, Shantanu Majumder, Francesco Congiu, Giuseppe Muscas, H. Luetkens, S. D. Kaushik, Shishir K. Pandey, Stephen L. Lee, Uday Deshpande, Tapati Sarkar, Soumya Jyoti Ray",
+      "venue": "Phys. Rev. B (accepted)",
+      "year": 2025
+    },
+    {
+      "title": "Half-metallicity and wandering axis ferromagnetism in Mn substituted Fe2TiSn",
+      "authors": "Kulbhushan Mishra, Shishir Kumar Pandey, S. Chaudhuri, Rajiv Rawat, P. A. Bhobe",
+      "venue": "Phys. Rev. B (accepted)",
+      "year": 2025,
+      "link": "https://arxiv.org/abs/2407.11576"
+    },
+    {
+      "title": "Electron spectroscopy study of single crystal CrTe",
+      "authors": "A. R. Shelke, C. N. Kuo, Shishir Kumar Pandey, T. L. Nguyen, Y. X. Chen, Y. T. Cheng, F. H. Chang, M. Yoshimura, N. Hiraoka, T. W. Pi, H. J. Lin, C. T. Chen, A. Fujimori, Priya Mahadevan, C. S. Lue, A. Chainani",
+      "venue": "Phys. Rev. B 111, 085142",
+      "year": 2025,
+      "link": "https://doi.org/10.1103/PhysRevB.111.085142"
+    },
+    {
+      "title": "Learning local equivariant representations for quantum operators",
+      "authors": "Zhanghao Zhouyin, Zixi Gan, Shishir Kumar Pandey, Linfeng Zhang, Qiangqiang Gu",
+      "venue": "ICLR (accepted)",
+      "year": 2025,
+      "link": "https://openreview.net/forum?id=kpq3IIjUD3"
+    },
+    {
+      "title": "Computational exploration of a viable route to Kitaev-quantum spin liquid phase in OsCl3",
+      "authors": "Qiangqiang Gu, Shishir Kumar Pandey†, Yihao Lin",
+      "venue": "Phys. Rev. Research 6 (4), 043309",
+      "year": 2024,
+      "link": "https://doi.org/10.1103/PhysRevResearch.6.043309"
+    },
+    {
+      "title": "Pitfalls of Exchange-Correlation Functionals in Descriptions of Magnetism: Cautionary Tale of the FeRh Alloy",
+      "authors": "Shishir Kumar Pandey†, Saikat Debnath, Zhanghao Zhouyin, Qiangqiang Gu",
+      "venue": "Computational Materials Science 248, 113561",
+      "year": 2024,
+      "link": "https://doi.org/10.1016/j.commatsci.2024.113561"
+    },
+    {
+      "title": "DeePTB: A deep learning-based tight-binding approach with ab initio accuracy",
+      "authors": "Qiangqiang Gu, Zhanghao Zhouyin, Shishir Kumar Pandey, Peng Zhang, Linfeng Zhang, Weinan E",
+      "venue": "Nature Communications 15 (1), 6772",
+      "year": 2024,
+      "link": "https://www.nature.com/articles/s41467-024-51006-4"
+    },
+    {
+      "title": "Terahertz crystal electric field transitions in a Kondo-lattice antiferromagnet",
+      "authors": "Payel Shee, Chia-Jung Yang, Shishir Kumar Pandey, Ashis Kumar Nandy, Ruta Kulkarni, Arumugam Thamizhavel, Manfred Fiebig, Shovon Pal",
+      "venue": "Phys. Rev. B 109 (7), 075133",
+      "year": 2024,
+      "link": "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.075133"
+    },
+    {
+      "title": "A computational method to estimate spin–orbital interaction strength in solid state systems",
+      "authors": "Qiangqiang Gu, Shishir Kumar Pandey†, Rajarshi Tiwari",
+      "venue": "Computational Materials Science 221, 112090",
+      "year": 2023,
+      "link": "https://doi.org/10.1016/j.commatsci.2023.112090"
+    },
+    {
+      "title": "Emergence of bond-dependent highly anisotropic magnetic interactions in Sr4RhO6: a theoretical study",
+      "authors": "Shishir Kumar Pandey†, Qiangqiang Gu, Yihao Lin, Rajarshi Tiwari, Ji Feng",
+      "venue": "Phys. Rev. B 107, 115119",
+      "year": 2023,
+      "link": "https://doi.org/10.1103/PhysRevB.107.115119"
+    },
+    {
+      "title": "Spin interaction and magnetism in cobaltate Kitaev candidate materials: An ab initio and model Hamiltonian approach",
+      "authors": "Shishir Kumar Pandey, Ji Feng",
+      "venue": "Phys. Rev. B 106, 174411",
+      "year": 2022,
+      "link": "https://doi.org/10.1103/PhysRevB.106.174411"
+    },
+    {
+      "title": "Charge doping to flat AgF2 monolayers in a chemical capacitor setup",
+      "authors": "Daniel Jezierski, Adam Grzelak, Xiaoqiang Liu, Shishir Kumar Pandey, Maria N. Gastiasoro, José Lorenzana, Ji Feng, Wojciech Grochala",
+      "venue": "Phys. Chem. Chem. Phys. 24, 15705–15717",
+      "year": 2022,
+      "link": "https://doi.org/10.1039/D2CP00179A"
+    },
+    {
+      "title": "Microscopic origin of room-temperature ferromagnetism in the double perovskite Sr2FeReO6",
+      "authors": "Shishir Kumar Pandey, Ashis K. Nandy, Poonam Kumari, Priya Mahadevan",
+      "venue": "Phys. Rev. B 105, 214422",
+      "year": 2022,
+      "link": "https://doi.org/10.1103/PhysRevB.105.214422"
+    },
+    {
+      "title": "Silver(II) route to unconventional superconductivity",
+      "authors": "Xiaoqiang Liu*, Shishir Kumar Pandey*, Ji Feng (* equal contribution)",
+      "venue": "Phys. Rev. B 105, 134519",
+      "year": 2022,
+      "link": "https://doi.org/10.1103/PhysRevB.105.134519"
+    },
+    {
+      "title": "Understanding the ferromagnetic insulating state in Cr-doped VO2: Density functional and tight binding calculations",
+      "authors": "Shishir Kumar Pandey, Abhinav Kumar, Sagar Sarkar, Priya Mahadevan",
+      "venue": "Phys. Rev. B 104, 125110",
+      "year": 2021,
+      "link": "https://doi.org/10.1103/PhysRevB.104.125110"
+    },
+    {
+      "title": "Dynamical correlation enhanced orbital magnetization in VI3",
+      "authors": "Zhimou Zhou, Shishir Kumar Pandey, Ji Feng",
+      "venue": "Phys. Rev. B 103, 035137",
+      "year": 2021,
+      "link": "https://doi.org/10.1103/PhysRevB.103.035137"
+    },
+    {
+      "title": "Site substitution in GdMnO3: Effects on structural, electronic, and magnetic properties",
+      "authors": "Sudipta Mahana, Shishir Kumar Pandey, Bipul Rakshit, Pronoy Nandi, Raktima Basu, Sandip Dhara, S. Turchini, N. Zema, U. Manju, Subhendra D. Mahanti, D. Topwal",
+      "venue": "Phys. Rev. B 102, 245120",
+      "year": 2020,
+      "link": "https://doi.org/10.1103/PhysRevB.102.245120"
+    },
+    {
+      "title": "Probing the Electronic Structure of Hybrid Perovskites in the Orientationally Disordered Cubic Phase",
+      "authors": "Pronoy Nandi*, S. K. Pandey*, Chandan Giri, Vijay Singh, L. Petaccia, U. Manju, Subhendra D. Mahanti, D. Topwal (* equal contributions)",
+      "venue": "J. Phys. Chem. Lett. 11, 5719",
+      "year": 2020,
+      "link": "https://doi.org/10.1021/acs.jpclett.0c01386"
+    },
+    {
+      "title": "Layer-Dependent Electronic Structure Changes in Transition Metal Dichalcogenides: The Microscopic Origin",
+      "authors": "Shishir K. Pandey, Ruma Das, Priya Mahadevan",
+      "venue": "ACS Omega 5, 15169",
+      "year": 2020,
+      "link": "https://doi.org/10.1021/acsomega.0c01138"
+    },
+    {
+      "title": "Effect of boundary scattering on spin-hall effect",
+      "authors": "Shishir K. Pandey†, Tribhuvan P. Pareek",
+      "venue": "Euro. Phys. B 92, 131",
+      "year": 2019,
+      "link": "https://doi.org/10.1140/epjb/e2019-90501-8"
+    },
+    {
+      "title": "Recent progress in physical effects of Berry phase in condensed matter systems",
+      "authors": "Lu Zhuocheng, PANDEY Shishir Kumar, Ji Feng",
+      "venue": "Science Foundation in China 3",
+      "year": 2019,
+      "link": "https://www.cnki.com.cn/Article/CJFDTotal-ZJJJ201903046.htm"
+    },
+    {
+      "title": "Doping an antiferromagnetic insulator: A route to an antiferromagnetic metallic phase",
+      "authors": "Shishir K. Pandey, Priya Mahadevan, D. D. Sarma",
+      "venue": "EuroPhys. Lett. 117, 57003",
+      "year": 2017,
+      "link": "https://doi.org/10.1209/0295-5075/117/57003"
+    },
+    {
+      "title": "Driving force for martensitic transformation in Ni2Mn1+xSn1−x",
+      "authors": "Soumyadipta Pal, Sagar Sarkar, S. K. Pandey, Chhayabrita Maji, Priya Mahadevan",
+      "venue": "Phys. Rev. B 94, 115143",
+      "year": 2016,
+      "link": "https://doi.org/10.1103/PhysRevB.94.115143"
+    },
+    {
+      "title": "Route to high Néel temperatures in 4d and 5d transition metal oxides",
+      "authors": "S. Middey, Ashis Kumar Nandy, S. K. Pandey, Priya Mahadevan, D. D. Sarma",
+      "venue": "Phys. Rev. B 86, 104406",
+      "year": 2012,
+      "link": "https://doi.org/10.1103/PhysRevB.86.104406"
+    }
+  ]
+}
